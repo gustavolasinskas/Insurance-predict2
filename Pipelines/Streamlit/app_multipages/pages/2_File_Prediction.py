@@ -2,7 +2,7 @@ import pickle
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="Insurance Prediction", page_icon="../img/stethoscope.png")
+st.set_page_config(page_title="Insurance Prediction", page_icon="Pipelines/Streamlit/img/stethoscope.png")
 st.sidebar.header('File Prediction')
 st.title("Insurance prediction")
 
